@@ -1,0 +1,80 @@
+﻿<tool-settings>
+  <tool name="Selection">
+    <selection-tool-settings selection-type="Intersection" ignore-labels="false" select-fields="true" />
+  </tool>
+  <tool name="Uml.Actor">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.Include">
+    <path-tool-settings direction="DefaultDirection" />
+  </tool>
+  <tool name="Uml.Generalization">
+    <path-tool-settings direction="DefaultDirection" />
+  </tool>
+  <tool name="Uml.UseCase">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="SmartConnector">
+    <path-tool-settings direction="DefaultDirection" />
+  </tool>
+  <tool name="Uml.Extend">
+    <path-tool-settings direction="DefaultDirection" />
+  </tool>
+  <tool name="Uml.Association">
+    <path-tool-settings direction="DefaultDirection" />
+  </tool>
+  <tool name="Uml.Class">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.Dependency">
+    <path-tool-settings direction="DefaultDirection" />
+  </tool>
+  <tool name="Uml.InterfaceClass">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.Realization">
+    <path-tool-settings direction="DefaultDirection" />
+  </tool>
+  <tool name="Uml.Aggregation">
+    <path-tool-settings direction="DefaultDirection" />
+  </tool>
+  <tool name="Uml.InitialState">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.State">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.Junction">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.CompositeState">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.FinalState">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.Transition">
+    <path-tool-settings direction="DefaultDirection" />
+  </tool>
+  <tool name="Uml.ActorLifeline">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.Lifeline">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.Merge">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.ExecutionOccurrence">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.DestroyOccurrence">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+  <tool name="Uml.Composition">
+    <path-tool-settings direction="DefaultDirection" />
+  </tool>
+  <tool name="Comment">
+    <shape-tool-settings size-type="Predefined" default-size="0,0" />
+  </tool>
+</tool-settings>

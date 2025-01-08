@@ -1,0 +1,13 @@
+﻿<dialog-sizes>
+  <dialog name="OptionsForm" size="845,702" />
+  <dialog name="PasswordSetting" size="377,210" />
+  <dialog name="UseConfirmationForm" size="483,302" />
+  <dialog name="TypesForm" size="563,443" />
+  <dialog name="ItemPropertiesForm" size="528,524" />
+  <dialog name="RelationInsertForm" size="420,152" />
+  <dialog name="NewDiagramForm" size="636,479" />
+  <dialog name="SoftwareIdeas.Controls.CommonDialogs.OptionalMessageBoxForm" size="453,213" />
+  <dialog name="UmlOperationEditorForm" size="574,531" />
+  <dialog name="DiagramPropertiesForm" size="545,461" />
+  <dialog name="SoftwareIdeasModeler.ErrorHandling.CorruptedFileForm" size="460,146" />
+</dialog-sizes>

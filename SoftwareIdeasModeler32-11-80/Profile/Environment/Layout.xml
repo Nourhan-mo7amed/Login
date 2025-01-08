@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Layout>
+  <Forms />
+  <Sides>
+    <Side Type="Right" IsMain="False" Size="1">
+      <Containers />
+      <AutoHiddenPanels />
+    </Side>
+    <Side Type="Left" IsMain="False" Size="1">
+      <Containers />
+      <AutoHiddenPanels />
+    </Side>
+  </Sides>
+</Layout>

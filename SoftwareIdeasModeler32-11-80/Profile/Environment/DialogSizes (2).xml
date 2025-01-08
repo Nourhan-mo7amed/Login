@@ -1,0 +1,9 @@
+﻿<dialog-sizes>
+  <dialog name="OptionsForm" size="845,702" />
+  <dialog name="PasswordSetting" size="377,210" />
+  <dialog name="UseConfirmationForm" size="483,302" />
+  <dialog name="RelationInsertForm" size="420,152" />
+  <dialog name="ItemPropertiesForm" size="528,524" />
+  <dialog name="SoftwareIdeasModeler.ErrorHandling.ErrorForm" size="643,227" />
+  <dialog name="NewDiagramForm" size="793,597" />
+</dialog-sizes>

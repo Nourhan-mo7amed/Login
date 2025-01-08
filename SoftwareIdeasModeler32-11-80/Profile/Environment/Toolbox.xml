@@ -1,0 +1,9 @@
+﻿<toolbox>
+  <group-setting name="UmlCommon" style="Icons" expanded="true" show-name="false" icon-size="20" />
+  <group-setting name="UseCaseDiagram" style="IconsWithLabel" expanded="true" show-name="true" icon-size="20" />
+  <group-setting name="Drawing" style="IconsWithLabel" expanded="true" show-name="true" icon-size="20" />
+  <group-setting name="ClassDiagram" style="IconsWithLabel" expanded="true" show-name="true" icon-size="20" />
+  <group-setting name="StateMachineDiagram" style="IconsWithLabel" expanded="true" show-name="true" icon-size="20" />
+  <group-setting name="SequenceDiagram" style="IconsWithLabel" expanded="true" show-name="true" icon-size="20" />
+  <group-setting name="ActivityDiagram" style="IconsWithLabel" expanded="true" show-name="true" icon-size="20" />
+</toolbox>
